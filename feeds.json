@@ -1,6 +1,10 @@
 [
   {
-    "name": "Manx Radio – Isle of Man News",
+    "name": "Manx Radio",
     "url": "https://www.manxradio.com/news/isle-of-man-news/feed.xml"
+  },
+  {
+    "name": "Isle of Man Government",
+    "url": "https://www.gov.im/news/rss.xml"
   }
 ]

@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-01-04T03:32:27.572Z",
+  "itemCount": 0,
+  "errors": [
+    {
+      "feed": "Manx Radio",
+      "url": "https://www.manxradio.com/news/rss/",
+      "error": "Fetch failed 404 for https://www.manxradio.com/news/rss/"
+    }
+  ],
+  "items": []
+}

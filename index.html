@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Manx News Digest</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="wrap">
+    <h1>Manx News Digest</h1>
+    <p class="muted" id="meta">Loading…</p>
+
+    <div class="controls">
+      <input id="q" type="search" placeholder="Search headlines…" autocomplete="off" />
+      <select id="sourceFilter">
+        <option value="">All sources</option>
+      </select>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div id="list" class="list"></div>
+  </main>
+
+  <footer class="wrap muted">
+    <p>This site is an automated link digest. Headlines remain the property of their respective publishers.</p>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>

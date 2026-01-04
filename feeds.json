@@ -6,5 +6,13 @@
   {
     "name": "Isle of Man Government",
     "url": "https://www.gov.im/news/rss.xml"
+  },
+  {
+    "name": "Tynwald",
+    "url": "https://www.tynwald.org.im/news/rss.xml"
+  },
+  {
+    "name": "Isle of Man Constabulary",
+    "url": "https://www.iompolice.im/news/rss.xml"
   }
 ]

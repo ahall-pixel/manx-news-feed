@@ -15,4 +15,34 @@
     "name": "Isle of Man Constabulary",
     "url": "https://www.iompolice.im/news/rss.xml"
   }
-]
+]{
+  "rss": [
+    {
+      "name": "Manx Radio",
+      "url": "https://www.manxradio.com/news/isle-of-man-news/feed.xml"
+    }
+  ],
+  "web_indexed": [
+    {
+      "name": "Steam Packet",
+      "url": "https://www.steam-packet.com/service-updates",
+      "selector": "h3 a"
+    },
+    {
+      "name": "Douglas City Council",
+      "url": "https://www.douglas.gov.im/news",
+      "selector": "a.news-item"
+    }
+  ],
+  "manual": [
+    {
+      "name": "3FM",
+      "url": "https://www.3fm.im"
+    },
+    {
+      "name": "Gef the Mongoose",
+      "url": "https://www.facebook.com/gefthemongoose"
+    }
+  ]
+}
+

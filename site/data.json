@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-01-04T03:48:15.558Z",
+  "generatedAt": "2026-01-04T03:50:48.860Z",
   "itemCount": 40,
-  "errors": [],
+  "errors": [
+    {
+      "feed": "Tynwald",
+      "url": "https://www.tynwald.org.im/news/rss.xml",
+      "error": "Fetch failed 404 for https://www.tynwald.org.im/news/rss.xml"
+    }
+  ],
   "items": [
     {
       "title": "Flights resume as airport runway opens",

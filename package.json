@@ -1,0 +1,11 @@
+{
+  "name": "manx-news-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "ingest": "node ingest.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.3"
+  }
+}
